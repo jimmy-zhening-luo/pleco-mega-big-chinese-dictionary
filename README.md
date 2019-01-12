@@ -1,5 +1,10 @@
 # pleco-mega-big-chinese-dictionary
-Chinese language dictionary for Pleco, in correct headword/pinyin format, that joins together several frequency rankings (Giga db, Junda, subtlex), char metadata from Unihan (e.g. stroke count, unicode representation, and more coming), char count per word, HSK level for words and their constituent chars, and suggested orderings for language acquisition - including Yan, HSK, Heisig (coming soon), and - possibly the best out of all - Loach, whose method uses a topographic sort on a hierarchy of Chinese radicals -> characters -> words with weights based on frequency (common usage), stroke count, and radicals/chars required to compose the char/word. , download the XLS and export any of the fields or tables you want to TSV, then upload to Pleco as a user dictionary.
+Chinese language dictionary for learners with lots of useful information like frequency ranks and percentile (Junda, Giga), Unihan metadata (stroke count), difficulty level (HSK), and suggested learning order based on supported methodologies (Yan, Heisig, and Loach - highly recommended).
+
+Formatted both for casual browsing (or pivoting) and for import to Pleco, the most popular Chinese learning and dictionary app.
+
+## Who is Loach?
+Loach, whose method uses a topographic sort on a hierarchy of Chinese radicals -> characters -> words with weights based on frequency (common usage), stroke count, and radicals/chars required to compose the char/word. , download the XLS and export any of the fields or tables you want to TSV, then upload to Pleco as a user dictionary.
 
 ## Get started
 To use, download big-table.xlsx and start pivoting!
